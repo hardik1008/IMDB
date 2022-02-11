@@ -1,6 +1,6 @@
 # IMDB-Replica
 
-### View this web page at : 
+### View this web page at : https://hardik1008.github.io/IMDb/
 
 ## Features
 
