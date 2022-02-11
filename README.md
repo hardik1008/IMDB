@@ -46,6 +46,6 @@ Axios HTTP client
 ____________________________________________________
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
-![alt text](https://github.com/hardik1008/IMDb/blob/master/img/favourites.png)
+![alt text](/img/favourites.png)
 <br />
-![alt text](https://github.com/hardik1008/IMDb/blob/master/img/home.png)
+![alt text](img/home.png)
